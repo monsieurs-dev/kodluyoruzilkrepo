@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-![Kodluyoruz Logo] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
   
 
 Bu repo [Kodluyoruz]( https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet Readme dosyası bir adet de index.html barındırıyor.
